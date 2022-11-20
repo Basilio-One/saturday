@@ -1,2 +1,3 @@
 Today we begin a third lesson of git
-5
+
+aftor push let's go training with
